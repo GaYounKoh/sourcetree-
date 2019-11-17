@@ -1,0 +1,3 @@
+str1='/"Hello. This is Gayoun's practice file./"'
+for ii in str1
+  print(ii)
